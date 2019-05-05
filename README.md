@@ -1,6 +1,6 @@
 # My developer Portfolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/57c04515-1d1b-46e8-b531-213fabca9cc4/deploy-status)](https://app.netlify.com/sites/gatsby-portfolio-dev/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8b920645-1a8a-4ec9-8529-6352aba5c7e9/deploy-status)](https://app.netlify.com/sites/naughty-brahmagupta-1953ed/deploys)
 
 ## Features
 
