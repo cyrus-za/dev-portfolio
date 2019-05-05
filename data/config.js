@@ -10,7 +10,7 @@ module.exports = {
 		github: 'https://github.com/cyrus-za',
 		linkedin: 'https://www.linkedin.com/in/pventer1/',
 	},
-	googleAnalyticsID: '', // TODO: add analytics ID
+	googleAnalyticsID: 'UA-139616697-1',
 	themeColor: '#51a5ff',
 	backgroundColor: '#51a5ff',
 	social: {
